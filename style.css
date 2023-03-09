@@ -29,6 +29,11 @@ li {
     padding: 1rem;
 }
 img {
-    width: 750px;
-    margin: 0px 20%;
+    width: 550px;
+    margin: 0px 30%;
+}
+
+h2 {
+    text-align: center;
+    color: lightcoral;
 }
