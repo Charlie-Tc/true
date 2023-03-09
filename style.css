@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background-color: lightblue;
+    font-family:  sans-serif;
+}
+
+h1 {
+    color: lightcoral;
+    text-align: center;
+}
+
+p{
+    font-size: 1.6rem;
+    text-align: center ;
+    color: lightgoldenrodyellow;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+li {
+    color: rgb(230, 18, 184);
+    padding: 1rem;
+}
+img {
+    width: 750px;
+    margin: 0px 20%;
+}
